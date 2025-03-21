@@ -1,0 +1,4 @@
+#add node_modules to gitignore
+/node_modules
+# add .env to gitignore
+.env
